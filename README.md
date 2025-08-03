@@ -39,6 +39,21 @@ This day covers control flow in Java using `if`, `else if`, `switch`, etc.
 
 Each program demonstrates Java’s decision-making capabilities with real-world examples.
 
+## 🔁 Day 4 – Loops in Java
+
+### ✅ Programs:
+1. Print numbers 1 to 10 – `PrintNumbers1To10.java`
+2. Even numbers from 1 to 100 – `EvenNumbers1To100.java`
+3. Odd numbers from 1 to 100 – `OddNumbers1To100.java`
+4. Sum of N numbers – `SumOfNNumbers.java`
+5. Factorial of a number – `Factorial.java`
+6. Multiplication table – `MultiplicationTable.java`
+7. Reverse a number – `ReverseNumber.java`
+8. Palindrome check – `PalindromeCheck.java`
+9. Fibonacci series – `FibonacciSeries.java`
+10. `break` and `continue` demo – `BreakContinueDemo.java`
+
+
 
 ### 📘 Notes:
 - All programs are beginner-friendly and cover basics like input/output, variables, data types, arithmetic, conditional logic, and operators.
