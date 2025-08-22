@@ -53,6 +53,21 @@ Each program demonstrates Java’s decision-making capabilities with real-world 
 9. Fibonacci series – `FibonacciSeries.java`
 10. `break` and `continue` demo – `BreakContinueDemo.java`
 
+## 🌀 Day 5 – Methods & Recursion
+
+This day focuses on **defining methods, recursion, and problem-solving using functions**.
+
+### ✅ Programs:
+1. **Factorial using Recursion** – `FactorialRecursion.java`
+2. **Reverse a Number** – `ReverseNumber.java`
+3. **Prime Number Check** – `PrimeCheck.java`
+4. **Palindrome Number Check** – `PalindromeNumber.java`
+5. **Power of a Number (a^b)** – `PowerFunction.java`
+6. **Fibonacci Series using Recursion** – `FibonacciRecursion.java`
+7. **GCD of Two Numbers using Recursion** – `GCD.java`
+8. **Swap Two Numbers (without 3rd variable)** – `SwapNumbers.java`
+9. **Sum of Natural Numbers using Recursion** – `SumNaturalNumbers.java`
+10. **Armstrong Number Check** – `ArmstrongNumber.java`
 
 
 ### 📘 Notes:
