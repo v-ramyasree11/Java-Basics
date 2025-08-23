@@ -69,6 +69,32 @@ This day focuses on **defining methods, recursion, and problem-solving using fun
 9. **Sum of Natural Numbers using Recursion** – `SumNaturalNumbers.java`
 10. **Armstrong Number Check** – `ArmstrongNumber.java`
 
+📊 Day 6 – Arrays in Java
+
+This day focuses on arrays, their declaration, traversal, and basic operations.
+
+✅ Programs:
+
+1.Read 5 Numbers into Array & Print – ReadArray.java
+
+2.Find Maximum Element – MaxInArray.java
+
+3.Find Minimum Element – MinInArray.java
+
+4.Calculate Sum of Elements – SumOfArray.java
+
+5.Calculate Average of Elements – AverageOfArray.java
+
+6.Count Even & Odd Numbers – EvenOddCount.java
+
+7.Reverse an Array – ReverseArray.java
+
+8.Search an Element – SearchElement.java
+
+9.Find Second Largest Element – SecondLargest.java
+
+10.Sort an Array (Manual Bubble Sort & Arrays.sort()) – SortArray.java
+
 
 ### 📘 Notes:
 - All programs are beginner-friendly and cover basics like input/output, variables, data types, arithmetic, conditional logic, and operators.
