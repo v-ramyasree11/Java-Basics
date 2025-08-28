@@ -95,6 +95,32 @@ This day focuses on arrays, their declaration, traversal, and basic operations.
 
 10.Sort an Array (Manual Bubble Sort & Arrays.sort()) – SortArray.java
 
+✨ Day 7 – Strings in Java
+
+This day focuses on String operations, methods, immutability, and practice problems.
+
+✅ Programs:
+
+1. Find String Length – StringLength.java
+
+2. Count Vowels & Consonants – CountVowels.java
+
+3. Palindrome String Check – PalindromeCheck.java
+
+4. Reverse a String – ReverseString.java
+
+5. Convert to Uppercase (without using toUpperCase) – UppercaseManual.java
+
+6. Character Frequency Counter – CharFrequency.java
+
+7. Remove Spaces from String – RemoveSpaces.java
+
+8. Find Largest Word in Sentence – LargestWord.java
+
+9. Check Anagram Strings – AnagramCheck.java
+ 
+10. Replace Vowels with * – ReplaceVowels.java
+
 
 ### 📘 Notes:
 - All programs are beginner-friendly and cover basics like input/output, variables, data types, arithmetic, conditional logic, and operators.
