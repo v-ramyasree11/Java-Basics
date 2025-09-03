@@ -121,6 +121,19 @@ This day focuses on String operations, methods, immutability, and practice probl
  
 10. Replace Vowels with * – ReplaceVowels.java
 
+✅ Day 8: OOP Basics + Inheritance
+
+1. car.java – Class with attributes & display.
+2. StudentApp.java – With display() & grade() methods.
+3. PersonApp.java – Default & parameterized constructors.
+4. BookApp.java – Print book details.
+5. EmployeeApp.java – Use of this keyword.
+6. DogApp.java – Demonstrate single inheritance.
+7. Rectangle.java – Area calculation.
+8. Interest.java – Simple Interest calculation.
+9. Box.java – Constructor overloading.
+10. calculator.java – Method overloading.
+
 
 ### 📘 Notes:
 - All programs are beginner-friendly and cover basics like input/output, variables, data types, arithmetic, conditional logic, and operators.
