@@ -134,6 +134,38 @@ This day focuses on String operations, methods, immutability, and practice probl
 9. Box.java – Constructor overloading.
 10. calculator.java – Method overloading.
 
+✅ Programs:
+
+1. Abstract Class Example – AbstractDemo.java
+   Abstract class Shape with abstract method area(), implemented in subclasses like Circle and Rectangle.
+
+2. Interface Implementation – AnimalApp.java
+   Interface Animal implemented by classes Dog and Cat.
+
+3. Interface Example – AnimalDemo.java
+   Demonstrates interface methods and implementation.
+
+4. Method Overriding / Bank Example – BankSystem.java
+   Shows runtime polymorphism with Bank → SBI, HDFC.
+
+5. Method Overloading / Calculator Example – CalculatorApp.java
+   Demonstrates compile-time polymorphism with add(int,int) and add(double,double).
+
+6. Dynamic Method Dispatch – DynamicMethodDispatch.java
+   Parent reference pointing to child object demonstrating runtime polymorphism.
+
+7. Encapsulation Example – EmployeeApp.java
+   Class Employee with private fields and public getters/setters.
+
+8. Interface with Default & Static Methods – InterfaceWithMethods.java
+   Shows usage of default and static methods in interfaces.
+
+9. Multiple Inheritance using Interfaces – MultipleInheritance.java
+   Class implementing two interfaces to demonstrate multiple inheritance.
+
+10 Student Grades using Abstraction – StudentGradeDemo.java
+   Abstract class Student with method calculateGrade(), implemented in HighSchoolStudent.
+
 
 ### 📘 Notes:
 - All programs are beginner-friendly and cover basics like input/output, variables, data types, arithmetic, conditional logic, and operators.
