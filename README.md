@@ -167,6 +167,26 @@ This day focuses on String operations, methods, immutability, and practice probl
    Abstract class Student with method calculateGrade(), implemented in HighSchoolStudent.
 
 
+ 📊 Day 11 – Collections in Java
+
+This day focuses on **List, Set, and Map** basics, their operations, and problem-solving using Java Collections.
+
+✅ **Practice Programs:**
+
+1. **Create an ArrayList of integers, add 10 numbers, and print** – `ArrayListDemo.java`
+2. **Remove an element from ArrayList** – `ArrayListRemove.java`
+3. **Iterate an ArrayList using for-each** – `ArrayListIteration.java`
+4. **Store 5 strings in a HashSet and display them** – `HashSetDemo.java`
+5. **Try adding duplicate elements to a HashSet → observe result** – `HashSetDuplicate.java`
+6. **Store country → capital in a HashMap and print** – `HashMapDemo.java`
+7. **Retrieve a value from a HashMap using a key** – `HashMapGetValue.java`
+8. **Remove a key-value pair from a HashMap** – `HashMapRemove.java`
+9. **Count frequency of each character in a word using HashMap** – `CharFrequencyHashMap.java`
+10. **Show difference between ArrayList and HashSet in output** – `ArrayListVsHashSet.java`
+
+---
+
+
 ### 📘 Notes:
 - All programs are beginner-friendly and cover basics like input/output, variables, data types, arithmetic, conditional logic, and operators.
 - Programs are organized day-wise to track learning progress.
